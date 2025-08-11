@@ -1,0 +1,5 @@
+# Hello World program in TOML
+# Language: toml
+# File extension: .toml
+
+message = "Hello, World!"

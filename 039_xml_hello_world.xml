@@ -1,0 +1,6 @@
+<!-- Hello World program in XML
+     Language: xml
+     File extension: .xml -->
+
+<?xml version="1.0"?>
+<message>Hello, World!</message>

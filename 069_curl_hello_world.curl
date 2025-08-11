@@ -1,0 +1,6 @@
+{ Hello World program in CURL
+  Language: curl
+  File extension: .curl }
+
+{curl 7.0 applet}
+{value "Hello, World!"}

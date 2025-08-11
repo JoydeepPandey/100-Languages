@@ -1,0 +1,9 @@
+// Hello World program in BCPL
+// Language: bcpl
+// File extension: .bcpl
+
+GET "libhdr"
+LET start() = VALOF
+$( writes("Hello World*N")
+   RESULTIS 0
+$)

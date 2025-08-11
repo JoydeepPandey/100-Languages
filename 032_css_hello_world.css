@@ -1,0 +1,7 @@
+/* Hello World program in CSS
+/* Language: css
+/* File extension: .css
+
+body:before {
+    content: "Hello, World!";
+}

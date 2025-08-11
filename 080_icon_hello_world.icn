@@ -1,0 +1,7 @@
+# Hello World program in ICON
+# Language: icon
+# File extension: .icn
+
+procedure main()
+    write("Hello, World!")
+end

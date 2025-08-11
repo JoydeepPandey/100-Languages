@@ -1,0 +1,5 @@
+# Hello World program in YAML
+# Language: yaml
+# File extension: .yml
+
+message: Hello, World!

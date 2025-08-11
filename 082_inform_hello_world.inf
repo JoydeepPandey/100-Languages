@@ -1,0 +1,7 @@
+! Hello World program in INFORM
+! Language: inform
+! File extension: .inf
+
+[ Main;
+    print "Hello, World!";
+];
